@@ -38,9 +38,10 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=geetikanahak&show_icons=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" alt="GitHub Stats" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=GeetikaNahak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeetikaNahak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GeetikaNahak&show_icons=true&theme=radical&include_all_commits=true) &nbsp;&nbsp;&nbsp;
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeetikaNahak&layout=compact&langs_count=100&theme=radical)
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeetikaNahak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GeetikaNahak&show_icons=true&theme=radical&include_all_commits=true) &nbsp;&nbsp;&nbsp;-->
+<img src="https://github-readme-stats.vercel.app/api?username=geetikanahak&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">&nbsp;&nbsp;&nbsp;
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeetikaNahak&layout=compact&langs_count=100&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 </div>
 
 ###
