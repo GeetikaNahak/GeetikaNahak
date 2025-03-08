@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/geetika_nahak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="geetika_nahak" height="30" width="40" /></a>
+ 
+<a href="https://www.codechef.com/users/geetika_nahak" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=FFFFFF" alt="geetika_nahak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/geetika_nahak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geetika_nahak" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@geetika134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@geetika134" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@geetikasaisr93gz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@geetikasaisr93gz" height="30" width="40" /></a>
