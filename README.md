@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GeetikaNahak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GeetikaNahak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&background=0d1117" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -38,8 +38,8 @@
 
 
  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GeetikaNahak&show_icons=true&theme=radical&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&rank_icon=github") &nbsp;&nbsp;&nbsp;
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeetikaNahak&layout=compact&langs_count=100&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GeetikaNahak&show_icons=true&theme=dark&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&rank_icon=github&bg_color=0d1117) &nbsp;&nbsp;&nbsp;
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeetikaNahak&layout=compact&langs_count=100&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117)
 </div>
 
 ###
