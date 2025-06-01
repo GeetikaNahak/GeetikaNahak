@@ -1,27 +1,38 @@
-<h1 align="center">Hi Everyone 👋, I'm Geetika</h1>
-
-- 🔭 I’m currently working on **developing my coding skills**
-- 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to collaborate on **community projects!**
-- 📫 How to reach me **geetikasaisravaninahak@gmail.com**
-- ⚡ Cool fact **The first-ever computer programmer was a woman named Ada Lovelace**
-
- 
+<h1 align="center">Hi there 👋, I'm Geetika</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetikanahak&label=Profile%20views&color=0e75b6&style=flat" alt="geetikanahak" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+### 👩‍💻 About Me
+- 🎓 Student | Aspiring Full-Stack Developer
+- 🔭 currently working on **developing my coding skills**
+- 🛠️ Love working with **MERN Stack**
+- 🎨 When I'm not coding, I’m crafting ✂️ or painting 🖌️
+- ⚡ Cool fact **The first-ever computer programmer was a woman named Ada Lovelace**
+- 📫 Let’s Connect - [LinkedIn](https://www.linkedin.com/in/geetika-sai-sravani-nahak)  
+### &nbsp;
+
+### 📫 Let’s Connect
 <p align="left">
  
 <a href="https://www.codechef.com/users/geetika_nahak" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=FFFFFF" alt="geetika_nahak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/geetika_nahak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geetika_nahak" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@geetika134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@geetika134" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@geetikasaisr93gz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@geetikasaisr93gz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### &nbsp;
 
-###
+### 🔧 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-1f2b39?style=flat&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b2d42?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-2b3e2f?style=flat&logo=node.js&logoColor=68a063)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e2d2f?style=flat&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-2e2e2e?style=flat&logo=firebase&logoColor=ffca28)
+![SQL](https://img.shields.io/badge/SQL-203040?style=flat&logo=mysql&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1e293b?style=flat&logo=tailwind-css&logoColor=38bdf8)
+
+### &nbsp;
 
 <h3 align="left">My Stats :</h3>
 
@@ -43,3 +54,4 @@
 </div>
 
 ###
+> “Code like you mean it. Speak like you're already confident.” 
