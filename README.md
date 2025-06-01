@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetikanahak&label=Profile%20views&color=0e75b6&style=flat" alt="geetikanahak" /> </p>
 
 ### 👩‍💻 About Me
+
 - 🎓 Student | Aspiring Full-Stack Developer
 - 🔭 currently working on **developing my coding skills**
 - 🛠️ Love working with **MERN Stack**
@@ -10,15 +11,7 @@
 - 📫 Let’s Connect - [LinkedIn](https://www.linkedin.com/in/geetika-sai-sravani-nahak)  
 ### &nbsp;
 
-### 📫 Let’s Connect
-<p align="left">
- 
-<a href="https://www.codechef.com/users/geetika_nahak" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=FFFFFF" alt="geetika_nahak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/geetika_nahak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geetika_nahak" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@geetikasaisr93gz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@geetikasaisr93gz" height="30" width="40" /></a>
-</p>
 
-### &nbsp;
 
 ### 🔧 Tech Stack
 
@@ -34,7 +27,7 @@
 
 ### &nbsp;
 
-<h3 align="left">My Stats :</h3>
+### 📈 My Stats 
 
 ###
 
