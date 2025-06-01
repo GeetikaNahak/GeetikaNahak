@@ -47,4 +47,4 @@
 </div>
 
 ###
-> “Code like you mean it. Speak like you're already confident.” 
+> “Debug your doubts, compile your courage, and execute your dreams.” 
