@@ -4,7 +4,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Student | Aspiring Full-Stack Developer
-- 🔭 currently working on **developing my coding skills**
+- 🔭 currently working on **developing my skills**
 - 🛠️ Love working with **MERN Stack**
 - 🎨 When I'm not coding, I’m crafting ✂️ or painting 🖌️
 - ⚡ Cool fact **The first-ever computer programmer was a woman named Ada Lovelace**
@@ -38,9 +38,6 @@
 ###
 
 <div align="center">
-
-
-
  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GeetikaNahak&show_icons=true&theme=dark&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&rank_icon=github&bg_color=0d1117) &nbsp;&nbsp;&nbsp;
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeetikaNahak&layout=compact&langs_count=100&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117)
