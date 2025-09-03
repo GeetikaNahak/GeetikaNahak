@@ -3,6 +3,8 @@
 
 ### 👩‍💻 About Me
 
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
+
 - 🎓 Student | Aspiring Full-Stack Developer
 - 🔭 currently working on **developing my skills**
 - 🛠️ Love working with **MERN Stack**
