@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Geetika</h1>
+<h1 align="center">Hi there 👋, I'm Geetika Nahak</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetikanahak&label=Profile%20views&color=0e75b6&style=flat" alt="geetikanahak" /> </p>
 
 ### 👩‍💻 About Me
