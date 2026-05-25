@@ -5,7 +5,6 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
-- 🔭 currently working on **Code Review Bot**
 - 🛠️ Love working with **MERN/MEAN Stack**
 - 🎨 When I'm not coding, I’m crafting ✂️ or reading 
 - ⚡ Cool fact **The first-ever computer programmer was a woman named Ada Lovelace**
