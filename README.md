@@ -5,10 +5,9 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
-- 🎓 Student | Aspiring Full-Stack Developer
-- 🔭 currently working on **developing my skills**
-- 🛠️ Love working with **MERN Stack**
-- 🎨 When I'm not coding, I’m crafting ✂️ or painting 🖌️
+- 🔭 currently working on **Code Review Bot**
+- 🛠️ Love working with **MERN/MEAN Stack**
+- 🎨 When I'm not coding, I’m crafting ✂️ or reading 
 - ⚡ Cool fact **The first-ever computer programmer was a woman named Ada Lovelace**
 - 📫 Let’s Connect - [LinkedIn](https://www.linkedin.com/in/geetika-sai-sravani-nahak)  
 ### &nbsp;
